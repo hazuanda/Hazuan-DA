@@ -1474,9 +1474,9 @@ InstalledAppDetails. -->
                 android:value="com.android.settings.aokpstats.AnonymousStats" />
         </activity>
 
-        <!-- JellyBam -->
+        <!-- HazuanDA -->
         <activity android:name=".jb.About" />
-        <activity android:name="jellybam" />
+        <activity android:name="HazuanDA" />
         <activity android:name=".cyanogenmod.LockscreenButtons" />
 
         <!-- CyanogenMod activities Start -->
